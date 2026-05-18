@@ -26,7 +26,13 @@
 
 ## 🏆 Featured Project
 
-[![CyberGuardian](https://github-readme-stats.vercel.app/api/pin/?username=abirami-025&repo=CyberGuardian&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)](https://github.com/abirami-025/CyberGuardian)
+### 🛡️ [CyberGuardian](https://github.com/abirami-025/CyberGuardian)
+> Real-time Android security & privacy monitoring application
+
+[![Repo](https://img.shields.io/badge/View%20Repository-CyberGuardian-blueviolet?style=for-the-badge&logo=github)](https://github.com/abirami-025/CyberGuardian)
+[![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)](https://github.com/abirami-025/CyberGuardian)
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/abirami-025/CyberGuardian)
+[![Stars](https://img.shields.io/github/stars/abirami-025/CyberGuardian?style=for-the-badge&color=yellow&logo=github)](https://github.com/abirami-025/CyberGuardian)
 
 ---
 
@@ -56,15 +62,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-
-![Abirami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirami-025&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirami-025&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/abirami-025?label=Followers&style=for-the-badge&logo=github&color=blueviolet)](https://github.com/abirami-025)
+[![GitHub stars](https://img.shields.io/github/stars/abirami-025?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow)](https://github.com/abirami-025)
+[![Repos](https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github)](https://github.com/abirami-025?tab=repositories)
 
 ---
 
