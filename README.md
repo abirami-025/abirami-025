@@ -1,12 +1,15 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abirami%20M&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20Digital%20Forensics%20%7C%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Abirami%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20Digital%20Forensics%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=🛡️+MSc+Cybersecurity+Graduate;🔍+Digital+Forensics+Enthusiast;🧪+SOC+Analyst+in+the+Making;🔐+Ethical+Hacker+%7C+Threat+Hunter;💼+Open+to+Cybersecurity+Roles)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=MSc+Cybersecurity+Graduate+%F0%9F%8E%93;Digital+Forensics+Enthusiast+%F0%9F%94%8D;Ethical+Hacking+%7C+Threat+Intelligence+%F0%9F%9B%A1%EF%B8%8F;Open+to+Cybersecurity+Roles+%F0%9F%92%BC)](https://git.io/typing-svg)
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/abirami-025?style=for-the-badge&logo=github&logoColor=white&color=6A0DAD)](https://github.com/abirami-025)
-[![Profile Views](https://komarev.com/ghpvc/?username=abirami-025&style=for-the-badge&color=blueviolet)](https://github.com/abirami-025)
-[![Open to Work](https://img.shields.io/badge/💼%20Open%20to%20Work-Cybersecurity%20Roles-brightgreen?style=for-the-badge)](mailto:abiramim04@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=abirami-025&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/abirami-025)
+[![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Cybersecurity_Roles-brightgreen?style=for-the-badge)](mailto:abiramim04@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-abiramim04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiramim04@gmail.com)
 
 </div>
 
@@ -15,9 +18,11 @@
 ## 👩‍💻 About Me
 
 ```yaml
-Name     : Abirami M
-Degree   : BSc Computer Science + MSc Cybersecurity
-University: Bharathiar University, Coimbatore
-Interests: Digital Forensics | Ethical Hacking | Threat Intelligence
-Status   : Actively seeking Cybersecurity roles
-Contact  : abiramim04@gmail.com
+┌─────────────────────────────────────────────┐
+│  Name       : Abirami M                     │
+│  Degree     : BSc CS + MSc Cybersecurity    │
+│  University : Bharathiar University, CBE    │
+│  Focus      : Digital Forensics | SOC | CTF │
+│  Status     : 🟢 Open to Opportunities      │
+│  Contact    : abiramim04@gmail.com          │
+└─────────────────────────────────────────────┘
