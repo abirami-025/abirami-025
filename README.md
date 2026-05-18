@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abirami M
 
-### 🛡️ Cybersecurity Graduate | Android Security Developer | Aspiring Cyber Defender
+### 🛡️ Cybersecurity Graduate | Digital Forensics Enthusiast | Aspiring Cyber Defender
 
 [![GitHub followers](https://img.shields.io/github/followers/abirami-025?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abirami-025)
 [![Profile Views](https://komarev.com/ghpvc/?username=abirami-025&style=for-the-badge&color=blueviolet)](https://github.com/abirami-025)
@@ -16,19 +16,17 @@
 
 - 🎓 **BSc Computer Science** + **MSc Cybersecurity** — Bharathiar University, Coimbatore
 - 🛡️ Built **CyberGuardian** — a real-time Android security & privacy monitoring app
-- 🔐 Passionate about **mobile security**, **ethical hacking** & **threat intelligence**
+- 🔍 Interested in **Digital Forensics**, **Incident Response** & **Malware Analysis**
+- 🔐 Passionate about **ethical hacking**, **threat intelligence** & **mobile security**
 - 🌱 Currently diving deeper into **Penetration Testing**, **Network Security** & **SOC Analysis**
-- 💼 Actively seeking roles in **Cybersecurity | Security Analysis | Ethical Hacking**
+- 💼 Actively seeking roles in **Cybersecurity | Digital Forensics | Security Analysis**
 - 📫 Reach me: **abiramim04@gmail.com**
-- 🌍 From **Pondicherry** | Studied in **Coimbatore, India 🇮🇳**
 
 ---
 
 ## 🏆 Featured Project
 
-<a href="https://github.com/abirami-025/CyberGuardian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abirami-025&repo=CyberGuardian&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
-</a>
+[![CyberGuardian](https://github-readme-stats.vercel.app/api/pin/?username=abirami-025&repo=CyberGuardian&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)](https://github.com/abirami-025/CyberGuardian)
 
 ---
 
@@ -40,7 +38,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Cybersecurity
+### 🔐 Cybersecurity & Forensics
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -62,8 +60,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abirami-025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirami-025&layout=compact&langs_count=7&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117"/>
+![Abirami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirami-025&show_icons=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirami-025&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
 
 </div>
 
