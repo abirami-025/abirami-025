@@ -17,11 +17,10 @@
 - 🎓 **BSc Computer Science** + **MSc Cybersecurity** — Bharathiar University, Coimbatore
 - 🛡️ Built **CyberGuardian** — a real-time Android security & privacy monitoring app
 - 🔐 Passionate about **mobile security**, **ethical hacking** & **threat intelligence**
-- 🔒 Also built an **Image Encryption System** using cryptographic algorithms
 - 🌱 Currently diving deeper into **Penetration Testing**, **Network Security** & **SOC Analysis**
 - 💼 Actively seeking roles in **Cybersecurity | Security Analysis | Ethical Hacking**
 - 📫 Reach me: **abiramim04@gmail.com**
-- 🌍 Based in **Coimbatore, India 🇮🇳**
+- 🌍 From **Pondicherry** | Studied in **Coimbatore, India 🇮🇳**
 
 ---
 
@@ -54,9 +53,8 @@
 
 ### 🖥️ OS & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -67,14 +65,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abirami-025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirami-025&layout=compact&langs_count=7&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117"/>
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abirami-025&theme=tokyonight&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
